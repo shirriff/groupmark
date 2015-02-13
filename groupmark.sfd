@@ -1,0 +1,1456 @@
+SplineFontDB: 3.0
+FontName: GroupMark
+FullName: GroupMark
+FamilyName: GroupMark
+Weight: Book
+Copyright: 
+Version: 1
+ItalicAngle: 0
+UnderlinePosition: -142
+UnderlineWidth: 150
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 473 -1918444793 6023]
+FSType: 8
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 649950890
+ModificationTime: 1423624449
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 67
+VLineGap: 0
+Panose: 2 11 6 4 2 2 2 2 2 4
+OS2TypoAscent: 1491
+OS2TypoAOffset: 0
+OS2TypoDescent: -431
+OS2TypoDOffset: 0
+OS2TypoLinegap: 307
+OS2WinAscent: 1854
+OS2WinAOffset: 0
+OS2WinDescent: 434
+OS2WinDOffset: 0
+HheadAscent: 1854
+HheadAOffset: 0
+HheadDescent: -434
+HheadDOffset: 0
+OS2SubXSize: 1434
+OS2SubYSize: 1331
+OS2SubXOff: 0
+OS2SubYOff: 283
+OS2SupXSize: 1434
+OS2SupYSize: 1331
+OS2SupXOff: 0
+OS2SupYOff: 977
+OS2StrikeYSize: 102
+OS2StrikeYPos: 530
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2FamilyClass: 2053
+OS2Vendor: 'TMC '
+OS2CodePages: 400001ff.ffff0000
+OS2UnicodeRanges: e0002aff.c0007843.00000009.00000000
+Lookup: 6 256 0 "'ccmp' Glyph Composition/Decomposition lookup 0" { "'ccmp' Glyph Composition/Decomposition lookup 0 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 1" { "'ccmp' Glyph Composition/Decomposition lookup 1 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 3" { "'locl' Localized Forms in Latin lookup 3 subtable"  } ['locl' ('latn' <'LTH ' > ) ]
+Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 4" { "'ccmp' Glyph Composition/Decomposition in Arabic lookup 4 subtable"  } ['ccmp' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 5" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 5 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 6 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 1 1 0 "'locl' Localized Forms in Arabic lookup 7" { "'locl' Localized Forms in Arabic lookup 7 subtable"  } ['locl' ('arab' <'URD ' > ) ]
+Lookup: 1 9 0 "'isol' Isolated Forms in Arabic lookup 8" { "'isol' Isolated Forms in Arabic lookup 8 subtable"  } ['isol' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 9" { "'fina' Terminal Forms in Arabic lookup 9 subtable"  } ['fina' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 10" { "'medi' Medial Forms in Arabic lookup 10 subtable"  } ['medi' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 11" { "'init' Initial Forms in Arabic lookup 11 subtable"  } ['init' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 12" { "'rlig' Required Ligatures in Arabic lookup 12 subtable"  } ['rlig' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 13" { "'liga' Standard Ligatures in Arabic lookup 13 subtable"  } ['liga' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 4 1 0 "'dlig' Discretionary Ligatures in Hebrew lookup 14" { "'dlig' Discretionary Ligatures in Hebrew lookup 14 subtable"  } ['dlig' ('hebr' <'dflt' > ) ]
+Lookup: 1 256 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
+Lookup: 4 1 0 "Ligature Substitution lookup 16" { "Ligature Substitution lookup 16 subtable"  } []
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Arabic lookup 1" { "'mark' Mark Positioning in Arabic lookup 1 subtable"  } ['mark' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning in Arabic lookup 2" { "'mark' Mark Positioning in Arabic lookup 2 subtable"  } ['mark' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 3" { "'mkmk' Mark to Mark in Arabic lookup 3 subtable"  } ['mkmk' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 4" { "'mkmk' Mark to Mark in Arabic lookup 4 subtable"  } ['mkmk' ('arab' <'URD ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 6" { "'mark' Mark Positioning lookup 6 subtable"  } ['mark' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 7" { "'mark' Mark Positioning lookup 7 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "Mark to base attachment lookup 8" { "Mark to base attachment lookup 8 subtable"  } []
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 9" { "'mark' Mark Positioning lookup 9 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 10" { "'mark' Mark Positioning lookup 10 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 11" { "'mark' Mark Positioning lookup 11 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 12" { "'mark' Mark Positioning lookup 12 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 0 0 "Mark to base attachment lookup 13" { "Mark to base attachment lookup 13 subtable"  } []
+Lookup: 260 512 0 "'mark' Mark Positioning lookup 14" { "'mark' Mark Positioning lookup 14 subtable"  } ['mark' ('grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 262 256 0 "'mkmk' Mark to Mark lookup 15" { "'mkmk' Mark to Mark lookup 15 subtable"  } ['mkmk' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 262 768 0 "'mkmk' Mark to Mark lookup 16" { "'mkmk' Mark to Mark lookup 16 subtable"  } ['mkmk' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'LTH ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 17" { "'mark' Mark Positioning in Hebrew lookup 17 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 18" { "'mark' Mark Positioning in Hebrew lookup 18 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 7 0 "'mark' Mark Positioning in Hebrew lookup 19" { "'mark' Mark Positioning in Hebrew lookup 19 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 20" { "'mark' Mark Positioning in Hebrew lookup 20 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 21" { "'mark' Mark Positioning in Hebrew lookup 21 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 22" { "'mark' Mark Positioning in Hebrew lookup 22 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 23" { "'mark' Mark Positioning in Hebrew lookup 23 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 23 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 23 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 23 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 24" { "'mark' Mark Positioning in Hebrew lookup 24 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 24 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 24 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 24 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 25" { "'mark' Mark Positioning in Hebrew lookup 25 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 25 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 25 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 25 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 26" { "'mark' Mark Positioning in Hebrew lookup 26 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 26 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 26 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 26 contextual 3"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 27" { "'mark' Mark Positioning in Hebrew lookup 27 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 28" { "'mark' Mark Positioning in Hebrew lookup 28 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew lookup 29" { "'mark' Mark Positioning in Hebrew lookup 29 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 30" { "'mark' Mark Positioning in Hebrew lookup 30 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 30 contextual 7"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 31" { "'mark' Mark Positioning in Hebrew lookup 31 contextual 0"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 1"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 2"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 3"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 4"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 5"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 6"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 7"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 8"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 9"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 10"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 11"  "'mark' Mark Positioning in Hebrew lookup 31 contextual 12"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 264 1 0 "'mark' Mark Positioning in Hebrew lookup 32" { "'mark' Mark Positioning in Hebrew lookup 32 subtable"  } ['mark' ('hebr' <'dflt' > ) ]
+Lookup: 257 1 0 "Single Positioning lookup 33" { "Single Positioning lookup 33 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 34" { "Mark to base attachment lookup 34 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 35" { "Mark to base attachment lookup 35 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 36" { "Mark to base attachment lookup 36 subtable"  } []
+Lookup: 260 1 0 "Mark to base attachment lookup 37" { "Mark to base attachment lookup 37 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 38" { "Single Positioning lookup 38 subtable"  } []
+Lookup: 257 1 0 "Single Positioning lookup 39" { "Single Positioning lookup 39 subtable"  } []
+Lookup: 258 1 0 "Pairwise Positioning (kerning) lookup 40" { "Pairwise Positioning (kerning) lookup 40 subtable"  } []
+MarkAttachClasses: 4
+"MarkClass-1" 523 hookabovecomb tildecomb gravecomb acutecomb uni0302 uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni031A uni033D uni033E uni033F uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0484 uni0485 uni0486 uni0350 uni0351 uni0352 uni0357 uni035B uni1DC0 uni1DC1 uni1DC3 uni1DC4 uni1DC5 uni1DC6 uni1DC7 uni1DC8 uni1DC9 uni1DFE
+"MarkClass-2" 31 uniFE20 uniFE21 uniFE22 uniFE23
+"MarkClass-3" 348 dotbelowcomb uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0324 uni0325 uni0326 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353 uni0354 uni0355 uni0356 uni0359 uni035A uni1DC2 uni1DCA uni1DFF
+DEI: 91125
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 6 subtable" 0 0 0 1
+ 2 0 1
+  Coverage: 39 uni05D0 uni05D1 uni05DB uni05E4 uni05F2
+  Coverage: 23 uni05B7 uni05B8 uni05BF
+  FCoverage: 535 space exclam quotedbl quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at uni05BE uni05C0 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni05F3 uni05F4 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 16"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" 0 0 0 1
+ 1 0 1
+  Coverage: 11 i j uni0268
+  FCoverage: 523 hookabovecomb tildecomb gravecomb acutecomb uni0302 uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni031A uni033D uni033E uni033F uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0484 uni0485 uni0486 uni0350 uni0351 uni0352 uni0357 uni035B uni1DC0 uni1DC1 uni1DC3 uni1DC4 uni1DC5 uni1DC6 uni1DC7 uni1DC8 uni1DC9 uni1DFE
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 32 subtable" 0 0 0 1
+ 2 2 0
+  Coverage: 7 uni05A4
+  Coverage: 7 uni05A5
+  BCoverage: 7 uni05B9
+  BCoverage: 7 uni05E2
+ 1
+  SeqLookup: 0 "Pairwise Positioning (kerning) lookup 40"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 12" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 11" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05A4
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 10" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05A3
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 9" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni059A
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 8" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni0596
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 7" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05B4
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 6" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05B0
+  BCoverage: 7 uni05B8
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 5" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni0596
+  BCoverage: 7 uni05B7
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 4" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni059A
+  BCoverage: 7 uni05B6
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 3" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05A3
+  BCoverage: 7 uni05B6
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B5
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 1" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05A3
+  BCoverage: 7 uni05B5
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 31 contextual 0" 0 0 0 1
+ 1 2 0
+  Coverage: 47 uni05BD uni0591 uni0596 uni05A3 uni05A4 uni05A5
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B4
+ 1
+  SeqLookup: 0 "Single Positioning lookup 39"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 7" 0 0 0 1
+ 1 2 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 6" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B8
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 5" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B7
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 4" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B5
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 3" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B4
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 2" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05BD
+  BCoverage: 7 uni05B0
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 1" 0 0 0 1
+ 1 3 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 7 uni05B4
+  BCoverage: 7 uni05B0
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 30 contextual 0" 0 0 0 1
+ 1 2 0
+  Coverage: 15 uni059A uni05AD
+  BCoverage: 131 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05B105BD uni05B205BD uni05B305BD uni05C7
+  BCoverage: 235 uni05D2 uni05D3 uni05D5 uni05D6 uni05D9 uni05DC uni05E0 uni05E8 uni05D505C2 uni05DC05B9 uni05DC05BC05B9 uni05D205BC uni05D305BC uni05D505BC uni05D605BC uni05D905BC uni05DC05BC uni05E005BC uni05E805BC uni05D505B9 uniFB22 uniFB25 uniFB27
+ 1
+  SeqLookup: 0 "Single Positioning lookup 38"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 26 contextual 3" 0 0 0 1
+ 1 2 0
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 79 uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05A2
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 37"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 26 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 131 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05B105BD uni05B205BD uni05B305BD uni05C7
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 37"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 26 contextual 1" 0 0 0 1
+ 1 2 0
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 79 uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05A2
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 37"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 26 contextual 0" 0 0 0 1
+ 1 2 0
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 131 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05B105BD uni05B205BD uni05B305BD uni05C7
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 37"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 25 contextual 3" 0 0 0 1
+ 1 1 1
+  Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+  FCoverage: 15 uni05BF uniFB1E
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 36"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 25 contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 15 uni05BF uniFB1E
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 36"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 25 contextual 1" 0 0 0 1
+ 1 1 1
+  Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+  FCoverage: 15 uni05BF uniFB1E
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 36"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 25 contextual 0" 0 0 0 1
+ 1 2 0
+  Coverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 15 uni05BF uniFB1E
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 36"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 24 contextual 3" 0 0 0 1
+ 1 1 1
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+  FCoverage: 79 uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05A2
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 35"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 24 contextual 2" 0 0 0 1
+ 1 1 1
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+  FCoverage: 131 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05B105BD uni05B205BD uni05B305BD uni05C7
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 35"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 24 contextual 1" 0 0 0 1
+ 1 1 1
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+  FCoverage: 131 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05B105BD uni05B205BD uni05B305BD uni05C7
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 35"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 24 contextual 0" 0 0 0 1
+ 1 1 1
+  Coverage: 211 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05B105BD uni05B205BD uni05B305BD uni05A2 uni05C7
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+  FCoverage: 79 uni0591 uni0596 uni059B uni05A3 uni05A4 uni05A5 uni05A6 uni05A7 uni05AA uni05A2
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 35"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 23 contextual 3" 0 0 0 1
+ 1 2 0
+  Coverage: 15 uni05BF uniFB1E
+  BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 34"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 23 contextual 2" 0 0 0 1
+ 1 1 1
+  Coverage: 15 uni05BF uniFB1E
+  BCoverage: 463 uni05D505C2 uni05DA05B0 uni05DA05B8 uni05DC05B9 uni05DC05BC05B9 uni05E905C1 uni05E905C2 uni05E905BC05C1 uni05E905BC05C2 uni05D005B7 uni05D005B8 uni05D005BC uni05D105BC uni05D205BC uni05D305BC uni05D405BC uni05D505BC uni05D605BC uni05D805BC uni05D905BC uni05DA05BC uni05DB05BC uni05DC05BC uni05DE05BC uni05E005BC uni05E105BC uni05E305BC uni05E405BC uni05E605BC uni05E705BC uni05E805BC uni05E905BC uni05EA05BC uni05D505B9 uni05D105BF uni05DB05BF uni05E405BF uniFB1F
+  FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 34"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 23 contextual 1" 0 0 0 1
+ 1 2 0
+  Coverage: 15 uni05BF uniFB1E
+  BCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 34"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 23 contextual 0" 0 0 0 1
+ 1 1 1
+  Coverage: 15 uni05BF uniFB1E
+  BCoverage: 311 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D5 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F0 uni05F1 uni05F2 uni25CC uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+  FCoverage: 111 uni0592 uni0593 uni0594 uni0595 uni0597 uni0598 uni059C uni059E uni059F uni05A1 uni05A8 uni05AB uni05AC uni05AF
+ 1
+  SeqLookup: 0 "Mark to base attachment lookup 34"
+EndFPST
+ChainPos2: coverage "'mark' Mark Positioning in Hebrew lookup 18 subtable" 0 0 0 1
+ 1 1 0
+  Coverage: 7 uni05B9
+  BCoverage: 287 uni05D0 uni05D1 uni05D2 uni05D3 uni05D4 uni05D6 uni05D7 uni05D8 uni05D9 uni05DA uni05DB uni05DC uni05DD uni05DE uni05DF uni05E0 uni05E1 uni05E2 uni05E3 uni05E4 uni05E5 uni05E6 uni05E7 uni05E8 uni05E9 uni05EA uni05F1 uni05F2 uniFB21 uniFB22 uniFB23 uniFB24 uniFB25 uniFB26 uniFB27 uniFB28
+ 1
+  SeqLookup: 0 "Single Positioning lookup 33"
+EndFPST
+Justify: 'arab'
+JstfExtender: uni0640 uni0640.alt glyph1127 glyph1128 glyph1129
+EndJustify
+TtTable: prep
+SVTCA[y-axis]
+SVTCA[y-axis]
+EndTTInstrs
+TtTable: fpgm
+SVTCA[y-axis]
+SVTCA[y-axis]
+EndTTInstrs
+ShortTable: cvt  810
+  1466
+  25
+  1466
+  26
+  1447
+  25
+  1062
+  24
+  0
+  -25
+  0
+  -24
+  0
+  -25
+  -407
+  -24
+  1466
+  25
+  -407
+  -24
+  746
+  0
+  184
+  0
+  184
+  0
+  0
+  168
+  173
+  361
+  173
+  191
+  194
+  496
+  24
+  175
+  185
+  180
+  200
+  23
+  68
+  156
+  124
+  148
+  135
+  6
+  90
+  200
+  137
+  82
+  82
+  5
+  68
+  148
+  281
+  -76
+  47
+  161
+  3
+  161
+  205
+  23
+  87
+  126
+  186
+  22
+  280
+  -23
+  127
+  133
+  979
+  135
+  133
+  13
+  34
+  65
+  80
+  111
+  141
+  332
+  -139
+  92
+  223
+  1155
+  55
+  76
+  110
+  112
+  384
+  -168
+  -114
+  -110
+  -92
+  165
+  185
+  968
+  -3
+  11
+  26
+  99
+  99
+  205
+  -18
+  1496
+  -36
+  45
+  92
+  149
+  153
+  223
+  402
+  2485
+  64
+  87
+  128
+  185
+  925
+  114
+  154
+  861
+  1025
+  -153
+  -6
+  3
+  33
+  119
+  205
+  4
+  77
+  205
+  448
+  555
+  76
+  101
+  231
+  280
+  380
+  835
+  1496
+  -93
+  -80
+  -60
+  3
+  28
+  93
+  104
+  154
+  186
+  309
+  327
+  545
+  1372
+  -179
+  -51
+  22
+  45
+  120
+  128
+  153
+  178
+  182
+  182
+  184
+  189
+  218
+  268
+  1520
+  -92
+  -16
+  25
+  44
+  73
+  127
+  180
+  206
+  448
+  1022
+  -639
+  -449
+  0
+  5
+  24
+  41
+  57
+  73
+  111
+  190
+  199
+  208
+  291
+  449
+  623
+  1292
+  1330
+  1344
+  1402
+  -44
+  20
+  49
+  85
+  87
+  167
+  180
+  230
+  503
+  638
+  638
+  639
+  966
+  1094
+  -190
+  14
+  133
+  145
+  191
+  194
+  197
+  225
+  282
+  303
+  335
+  342
+  553
+  623
+  670
+  882
+  8
+  44
+  49
+  49
+  100
+  105
+  137
+  152
+  199
+  222
+  299
+  438
+  524
+  719
+  931
+  1195
+  1275
+  1565
+  -288
+  -242
+  6
+  38
+  155
+  157
+  193
+  269
+  280
+  288
+  371
+  386
+  470
+  483
+  579
+  607
+  667
+  738
+  916
+  1193
+  1234
+  1889
+  28
+  94
+  109
+  141
+  171
+  247
+  274
+  312
+  337
+  347
+  360
+  380
+  391
+  401
+  409
+  461
+  464
+  488
+  577
+  596
+  619
+  751
+  872
+  881
+  957
+  1090
+  1090
+  1107
+  1139
+  1155
+  1414
+  1419
+  1768
+  -424
+  -316
+  -303
+  -265
+  -206
+  -122
+  81
+  124
+  129
+  145
+  149
+  158
+  180
+  185
+  207
+  217
+  217
+  223
+  226
+  261
+  267
+  270
+  270
+  288
+  289
+  341
+  379
+  379
+  382
+  397
+  418
+  424
+  425
+  436
+  464
+  464
+  482
+  489
+  498
+  501
+  507
+  512
+  512
+  518
+  539
+  545
+  546
+  546
+  547
+  626
+  631
+  660
+  668
+  719
+  719
+  720
+  748
+  761
+  791
+  802
+  811
+  821
+  828
+  857
+  879
+  881
+  903
+  912
+  912
+  949
+  993
+  1050
+  1231
+  1279
+  1330
+  1330
+  1430
+  1439
+  1448
+  1451
+  1474
+  1520
+  1548
+  1922
+  2048
+  2252
+  -861
+  -726
+  -546
+  -512
+  -376
+  -362
+  -334
+  -332
+  -31
+  21
+  25
+  26
+  28
+  31
+  60
+  81
+  97
+  97
+  106
+  120
+  150
+  165
+  175
+  211
+  268
+  280
+  282
+  298
+  318
+  332
+  337
+  351
+  362
+  369
+  376
+  386
+  388
+  410
+  421
+  424
+  425
+  430
+  444
+  461
+  471
+  495
+  512
+  525
+  540
+  545
+  546
+  558
+  565
+  578
+  591
+  591
+  606
+  613
+  625
+  656
+  658
+  692
+  726
+  762
+  775
+  779
+  783
+  789
+  810
+  839
+  861
+  869
+  884
+  889
+  918
+  944
+  972
+  989
+  994
+  1014
+  1020
+  1020
+  1023
+  1034
+  1055
+  1058
+  1062
+  1067
+  1095
+  1119
+  1141
+  1182
+  1255
+  1255
+  1372
+  1483
+  1509
+  1546
+  1645
+  1670
+  1720
+  1777
+  1846
+  1854
+  1872
+  1873
+  1885
+  1935
+  1974
+  2004
+  2144
+  182
+  195
+  181
+  183
+  0
+  0
+  0
+  0
+  0
+  0
+  480
+  897
+  837
+  949
+  142
+  563
+  1049
+  718
+  718
+  45
+  95
+  100
+  845
+  575
+  0
+  680
+  392
+  637
+  436
+  548
+  1400
+  1595
+  571
+  334
+  240
+  1062
+  660
+  710
+  671
+  758
+  571
+  845
+  331
+  339
+  106
+  561
+  0
+  0
+  0
+  1556
+  1194
+  0
+  60
+  1219
+  237
+  1212
+  613
+  718
+  949
+  120
+  1548
+  382
+  751
+  1548
+  178
+  256
+  569
+  0
+  453
+  816
+  1067
+  971
+  218
+  991
+  263
+  1185
+  219
+  1034
+  279
+  493
+  679
+  848
+  267
+  445
+  1086
+  1368
+  33
+  924
+  174
+  881
+  381
+  181
+  581
+  0
+  2811
+  2188
+  299
+  334
+  426
+  135
+  84
+  306
+  504
+  1023
+  3
+  590
+  180
+  55
+  995
+  131
+  107
+  728
+  237
+  119
+  136
+  151
+  356
+  1127
+  142
+  51
+  380
+  231
+  166
+  670
+  809
+  1390
+  1578
+  1557
+  457
+  617
+  1162
+  531
+  436
+  2
+  1193
+  0
+  569
+  292
+  259
+  1300
+  132
+  349
+  922
+  1775
+  729
+  117
+  207
+  1034
+  222
+  940
+  1212
+  719
+  686
+  845
+  1264
+  1362
+  360
+  109
+  125
+  134
+  113
+  -127
+  121
+  1368
+  1234
+  359
+  3
+  342
+  37
+  1248
+  148
+  124
+  818
+  1057
+  148
+  127
+  114
+  92
+  47
+  182
+  24
+  186
+  184
+  65
+  845
+  114
+  24
+  31
+  76
+  362
+  341
+  153
+  154
+  154
+  152
+  178
+  4
+  120
+  105
+  20
+  87
+  110
+  206
+  180
+  1620
+  696
+  103
+  1294
+  357
+  231
+  0
+  1227
+  -430
+  90
+  -90
+  153
+  -153
+  110
+  -110
+  45
+  -44
+  135
+  -132
+  184
+  168
+  229
+  143
+  168
+  389
+  -389
+  112
+  30
+  217
+  222
+  332
+  1350
+  719
+  1350
+  -211
+  650
+  729
+  595
+  662
+  183
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  293
+  280
+  234
+  234
+  174
+  0
+  62
+  1467
+  138
+  1239
+  83
+  63
+  -116
+  -43
+  21
+  40
+  34
+  153
+  98
+  74
+  228
+  109
+  238
+  229
+  72
+  960
+  51
+  -434
+  689
+  -186
+  880
+  121
+  1503
+  81
+  -89
+  -225
+  266
+  104
+  -148
+  79
+  188
+  165
+  1797
+  97
+  1835
+  237
+  1200
+  466
+  182
+  123
+  101
+  594
+  -140
+  869
+  -407
+  148
+  143
+  92
+  64
+  134
+  117
+  137
+  137
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  3419
+  242
+  60
+  157
+  7
+  2
+  16
+  47
+  86
+  0
+  1196
+  1053
+  5
+  2
+EndShort
+LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "Ken Shirriff 2015" "" "" "" "Copyright (c) 2015, (Ken Shirriff) (http://righto.com),+AAoA-with Reserved Font Name GroupMark.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+GaspTable: 3 8 2 17 3 65535 3 0
+Encoding: Original
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 16 11
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Arabic lookup 1 subtable" "Anchor-1" "'mark' Mark Positioning in Arabic lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Arabic lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Arabic lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark in Arabic lookup 3 subtable" "Anchor-5" "'mkmk' Mark to Mark in Arabic lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 5 subtable" "Anchor-8" "'mark' Mark Positioning lookup 5 subtable" "Anchor-9" "'mark' Mark Positioning lookup 6 subtable" "Anchor-10" "'mark' Mark Positioning lookup 7 subtable" "Anchor-11" "Mark to base attachment lookup 8 subtable" "Anchor-12" "'mark' Mark Positioning lookup 9 subtable" "Anchor-13" "'mark' Mark Positioning lookup 9 subtable" "Anchor-14" "'mark' Mark Positioning lookup 10 subtable" "Anchor-15" "'mark' Mark Positioning lookup 11 subtable" "Anchor-16" "'mark' Mark Positioning lookup 12 subtable" "Anchor-17" "Mark to base attachment lookup 13 subtable" "Anchor-18" "Mark to base attachment lookup 13 subtable" "Anchor-19" "'mark' Mark Positioning lookup 14 subtable" "Anchor-20" "'mark' Mark Positioning lookup 14 subtable" "Anchor-21" "'mkmk' Mark to Mark lookup 15 subtable" "Anchor-22" "'mkmk' Mark to Mark lookup 16 subtable" "Anchor-23" "'mark' Mark Positioning in Hebrew lookup 17 subtable" "Anchor-24" "'mark' Mark Positioning in Hebrew lookup 19 subtable" "Anchor-25" "'mark' Mark Positioning in Hebrew lookup 20 subtable" "Anchor-26" "'mark' Mark Positioning in Hebrew lookup 21 subtable" "Anchor-27" "'mark' Mark Positioning in Hebrew lookup 21 subtable" "Anchor-28" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-29" "'mark' Mark Positioning in Hebrew lookup 22 subtable" "Anchor-30" "'mark' Mark Positioning in Hebrew lookup 27 subtable" "Anchor-31" "'mark' Mark Positioning in Hebrew lookup 28 subtable" "Anchor-32" "'mark' Mark Positioning in Hebrew lookup 29 subtable" "Anchor-33" "Mark to base attachment lookup 34 subtable" "Anchor-34" "Mark to base attachment lookup 35 subtable" "Anchor-35" "Mark to base attachment lookup 36 subtable" "Anchor-36" "Mark to base attachment lookup 37 subtable" 
+BeginChars: 15 4
+
+StartChar: space
+Encoding: 0 32 0
+AltUni2: 0000a0.ffffffff.0
+Width: 569
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Back
+Fore
+Validated: 1
+EndChar
+
+StartChar: uniE000
+Encoding: 1 57344 1
+Width: 1139
+Flags: W
+HStem: 24 161<73 475 655 1058> 467 161<73 475 655 1058> 910 161<73 475 655 1058>
+VStem: 475 180<-346 24 185 467 628 910 1071 1446>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+Fore
+SplineSet
+475 -346 m 1,0,-1
+ 475 24 l 1,1,-1
+ 73 24 l 1,2,-1
+ 73 185 l 1,3,-1
+ 475 185 l 1,4,-1
+ 475 467 l 1,5,-1
+ 73 467 l 1,6,-1
+ 73 628 l 1,7,-1
+ 475 628 l 1,8,-1
+ 475 910 l 1,9,-1
+ 73 910 l 1,10,-1
+ 73 1071 l 1,11,-1
+ 475 1071 l 1,12,-1
+ 475 1446 l 1,13,-1
+ 655 1446 l 1,14,-1
+ 655 1071 l 1,15,-1
+ 1058 1071 l 1,16,-1
+ 1058 910 l 5,17,-1
+ 655 910 l 5,18,-1
+ 655 628 l 1,19,-1
+ 1058 628 l 1,20,-1
+ 1058 467 l 1,21,-1
+ 655 467 l 1,22,-1
+ 655 185 l 1,23,-1
+ 1058 185 l 1,24,-1
+ 1058 24 l 1,25,-1
+ 655 24 l 1,26,-1
+ 655 -346 l 1,27,-1
+ 475 -346 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE001
+Encoding: 2 57345 2
+Width: 1708
+Flags: WO
+HStem: 145 161<111 760 940 1589> 467 161<111 760 940 1589> 789 161<111 760 940 1589>
+VStem: 760 180<-346 145 306 467 628 789 950 1446>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+Fore
+SplineSet
+760 -346 m 1,0,-1
+ 760 145 l 1,1,-1
+ 111 145 l 5,2,-1
+ 111 306 l 5,3,-1
+ 760 306 l 1,4,-1
+ 760 467 l 1,5,-1
+ 111 467 l 5,6,-1
+ 111 628 l 5,7,-1
+ 760 628 l 1,8,-1
+ 760 789 l 1,9,-1
+ 111 789 l 5,10,-1
+ 111 950 l 5,11,-1
+ 760 950 l 1,12,-1
+ 760 1446 l 1,13,-1
+ 940 1446 l 1,14,-1
+ 940 950 l 1,15,-1
+ 1589 950 l 5,16,-1
+ 1589 789 l 5,17,-1
+ 940 789 l 1,18,-1
+ 940 628 l 1,19,-1
+ 1589 628 l 5,20,-1
+ 1589 467 l 5,21,-1
+ 940 467 l 1,22,-1
+ 940 306 l 1,23,-1
+ 1589 306 l 5,24,-1
+ 1589 145 l 5,25,-1
+ 940 145 l 1,26,-1
+ 940 -346 l 1,27,-1
+ 760 -346 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE002
+Encoding: 4 57346 3
+Width: 1750
+Flags: W
+HStem: 266 80<111 805 895 1589> 507 81<111 805 895 1589> 749 80<111 805 895 1589>
+VStem: 805 90<-346 266 346 507 588 749 829 1446>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+Fore
+SplineSet
+805 -346 m 1,0,-1
+ 805 266 l 1,1,-1
+ 111 266 l 1,2,-1
+ 111 346 l 1,3,-1
+ 805 346 l 1,4,-1
+ 805 507 l 1,5,-1
+ 111 507 l 1,6,-1
+ 111 588 l 1,7,-1
+ 805 588 l 1,8,-1
+ 805 749 l 1,9,-1
+ 111 749 l 1,10,-1
+ 111 829 l 1,11,-1
+ 805 829 l 1,12,-1
+ 805 1446 l 1,13,-1
+ 895 1446 l 1,14,-1
+ 895 829 l 1,15,-1
+ 1589 829 l 1,16,-1
+ 1589 749 l 1,17,-1
+ 895 749 l 1,18,-1
+ 895 588 l 1,19,-1
+ 1589 588 l 1,20,-1
+ 1589 507 l 1,21,-1
+ 895 507 l 1,22,-1
+ 895 346 l 1,23,-1
+ 1589 346 l 1,24,-1
+ 1589 266 l 1,25,-1
+ 895 266 l 1,26,-1
+ 895 -346 l 1,27,-1
+ 805 -346 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
