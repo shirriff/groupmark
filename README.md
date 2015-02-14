@@ -7,4 +7,4 @@ The group mark looks like this:
 
 ![group mark](/graphics/groupmark.png)
 
-The full proposal is in [proposal.pdf](proposal.pdf?raw=true). A sample font with the group mark symbol is [GroupMark.ttf](GroupMark.ttf?raw=true), with the group mark at U+E000.
+The full proposal is in [proposal.pdf](proposal.pdf?raw=true). A sample font with the group mark symbol is [GroupMark.ttf](GroupMark.ttf?raw=true), with the group mark at U+E000. A demo of the group mark displayed in HTML via a webfont is [here](http://righto.com/groupmark).
