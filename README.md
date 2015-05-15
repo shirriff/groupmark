@@ -10,3 +10,5 @@ The group mark looks like this:
 The full proposal is in [proposal.pdf](proposal.pdf?raw=true). A sample font with the group mark symbol is [GroupMark.ttf](GroupMark.ttf?raw=true), with the group mark at U+E000. A demo of the group mark displayed in HTML via a webfont is [here](http://righto.com/groupmark).
 
 The proposal has been submitted to the Unicode committee for review as [document L2/15-083](http://www.unicode.org/L2/L2015/15083-group-mark.pdf)
+
+The proposal has been approved for addition to Unicode ([minutes](http://www.unicode.org/L2/L2015/15107.htm))
